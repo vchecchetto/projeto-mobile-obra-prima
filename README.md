@@ -1,1 +1,1 @@
-﻿# projeto-mobile-gestao-obra
+﻿# Gestão de Obras para Dispositivos Móveis
